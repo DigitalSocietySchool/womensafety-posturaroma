@@ -1,0 +1,10 @@
+<LIST of devices>
+
+- Arduino Micro 
+- Battery: to drive  Arduino Micro (7-12V)
+- Battery: to drive Filament (maybe 3 - 9V)
+- Triple Axis Accelerometer Breakout - ADXL33
+- NPN power transistor - BD131
+- Filament, small bottle, cotton - from “Huismerk Tutti frutti” 
+	web shop: http://www.shishapenwinkel.nl/tutti-fruti-eigen-merk
+- Aroma liquid 
